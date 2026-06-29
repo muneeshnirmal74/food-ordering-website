@@ -53,7 +53,7 @@ function Section2() {
                                         <img src={cardData.image} className="img-fluid" alt="icon"/>
                                     </div>
                                     <h4>{cardData.title}</h4>
-                                    <p>{cardData.paragraph}</p>
+                                    <p>{cardData.paragraph} </p>
                                 </div>
                             </Col>
                              
